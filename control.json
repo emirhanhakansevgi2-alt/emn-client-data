@@ -1,5 +1,5 @@
 {
-  "durum": "aktif",
-  "mesaj": "sunucumuz kapanmıştır kolay gelsin",
+  "durum": "bakim",
+  "mesaj": "Sunucu şu an bakımdadır.",
   "versiyon": "1.21.1"
 }
